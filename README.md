@@ -5,7 +5,11 @@ Este projeto é uma aplicação React que permite calcular e aplicar descontos e
 
 ## Requisitos
 
-Antes de começar, certifique-se de ter o Node.js e o npm (Node Package Manager) instalados em sua máquina. Você pode baixar o Node.js [aqui](https://nodejs.org/) e o npm é instalado automaticamente com o Node.js.
+Antes de começar, certifique-se de ter o Node.js e o pnpm instalados em sua máquina. Você pode baixar o Node.js [aqui](https://nodejs.org/) e o `pnpm` pode ser instalado globalmente com o comando:
+
+```bash
+npm install -g pnpm
+```
 
 ## Clonando o Repositório
 

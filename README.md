@@ -29,13 +29,13 @@ cd ecommerce-discount
 ### Instale as dependências do projeto com o npm:
 
 ```bash
-npm install
+pnpm install
 ```
 ### Iniciando o Projeto
 Para iniciar o projeto em modo de desenvolvimento, use o comando:
 
 ``` bash
-pnpm run dev
+npm run dev
 ```
 Acesse a aplicação em seu navegador em:
 ``` bash

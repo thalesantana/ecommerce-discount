@@ -35,7 +35,7 @@ npm install
 Para iniciar o projeto em modo de desenvolvimento, use o comando:
 
 ``` bash
-npm run dev
+pnpm run dev
 ```
 Acesse a aplicação em seu navegador em:
 ``` bash

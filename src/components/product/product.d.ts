@@ -9,6 +9,6 @@ export interface ProductItemProps {
   discountedPrice: number
 }
 
-export interface ProductListProps {
+export interface DiscountProps {
   discount: number
 }

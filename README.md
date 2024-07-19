@@ -9,7 +9,7 @@ Antes de começar, certifique-se de ter o Node.js e o npm (Node Package Manager)
 
 ## Clonando o Repositório
 
-Para começar a trabalhar com este projeto, clone o repositório usando o comando abaixo:
+Em seu terminal, clone o repositório usando o comando abaixo:
 
 ```bash
 git clone https://github.com/thalesantana/ecommerce-discount.git

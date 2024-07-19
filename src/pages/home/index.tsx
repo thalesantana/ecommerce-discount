@@ -48,7 +48,7 @@ export function Home() {
                   onChange={handleDiscountChange}
                   min={0}
                   max={100}
-                  className={`border rounded-md px-4 py-2 text-gray-800 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 w-full ${inputError ? 'border-red-500' : 'border-gray-300'}`}
+                  className={`border rounded-md px-4 py-2 text-gray-800 placeholder-gray-400 focus:outline-none focus:ring-2w-full ${inputError ? 'border-red-500' : 'border-gray-300'}`}
                 />
                 <span className="absolute inset-y-0 right-4 flex items-center text-gray-500">%</span>
               </div>

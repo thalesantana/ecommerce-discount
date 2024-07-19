@@ -42,16 +42,25 @@ http://localhost:5173/
 
 Aqui está um breve resumo da estrutura do projeto:
 
-public/: Contém arquivos estáticos, como imagens e o index.html.
-src/: Contém os arquivos de código-fonte do projeto.
-components/: Contém componentes React.
-mocks/: Contém dados simulados para testes.
-utils/: Contém funções utilitárias.
-App.tsx: Componente principal do aplicativo.
-index.tsx: Ponto de entrada para o React.
-package.json: Gerencia dependências e scripts do projeto.
-tsconfig.json: Configurações do TypeScript.
-tailwind.config.ts: Configurações do Tailwind CSS.
+public/: Contém arquivos estáticos, como imagens e o index.html
+
+src/: Contém os arquivos de código-fonte do projeto
+
+components/: Contém componentes React
+
+mocks/: Contém dados simulados para testes
+
+utils/: Contém funções utilitárias
+
+App.tsx: Componente principal do aplicativo
+
+index.tsx: Ponto de entrada para o React
+
+package.json: Gerencia dependências e scripts do projeto
+
+tsconfig.json: Configurações do TypeScript
+
+tailwind.config.ts: Configurações do Tailwind CSS
 
 ### Tecnologias Utilizadas
 

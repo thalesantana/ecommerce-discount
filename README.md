@@ -1,6 +1,6 @@
 # Projeto de Cálculo de Desconto
 
-Este projeto é uma aplicação React que permite calcular e aplicar descontos em uma lista de produtos que foi requisitos deste teste técnico:
+Este projeto é uma aplicação React que permite calcular e aplicar descontos em uma lista de produtos que foram requisitos deste teste técnico:
 ![image](https://github.com/user-attachments/assets/d9736be4-edbd-41c1-b047-faed166255af)
 
 ## Requisitos
